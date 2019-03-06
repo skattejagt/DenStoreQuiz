@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "gaade": "Hej deter en gåde"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.140836715698242,
+          55.65327321264521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gaade": "noget med tog"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.139307856559753,
+          55.65304319018935
+        ]
+      }
+    }
+  ]
+}
