@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "properties": {
-        "gaade": "1.Du kan købe kaffe her."
+        "gaade": "Hint: Du kan købe kaffe her."
       },
       "geometry": {
         "type": "Point",
@@ -17,7 +17,7 @@
     {
       "type": "Feature",
       "properties": {
-        "gaade": "2. Du kan være her på flere forskellige tidspunkter af døgnet, afhængig af formål."
+        "gaade": "Hint: Du kan være her på flere forskellige tidspunkter af døgnet, afhængig af formål."
       },
       "geometry": {
         "type": "Point",
@@ -30,7 +30,7 @@
     {
       "type": "Feature",
       "properties": {
-        "gaade": "3. Tager du toget, går du ofte forbi her."
+        "gaade": "Hint: Tager du toget, går du ofte forbi her."
       },
       "geometry": {
         "type": "Point",
